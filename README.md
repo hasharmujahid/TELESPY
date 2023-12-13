@@ -25,5 +25,4 @@ You'll need to create a telegram bot first and add the API key of the BOT to the
 
 # Video Demonstration:
 
-
-![Link](https://www.linkedin.com/posts/hashar-mujahid-7223181a3_malware-windows-windowssecurity-activity-7014669252162908160-6h0L?utm_source=share&utm_medium=member_desktop)
+https://www.linkedin.com/posts/hashar-mujahid-7223181a3_malware-windows-windowssecurity-activity-7014669252162908160-6h0L?utm_source=share&utm_medium=member_desktop
